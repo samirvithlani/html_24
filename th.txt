@@ -1,0 +1,39 @@
+<h1>INNER HTML</h1>
+
+tags :h1,<i>,<strong,mark,<del><emp>...<br>
+
+attributes:
+    id
+    class
+    style
+    title
+    lang
+    dir
+    tabindex
+    hidden
+    data-*
+    aria-*
+    role
+    contenteditable
+    contextmenu
+    spellcheck
+    translate
+    accesskey
+    autocapitalize
+
+
+working with links using <a>
+a --> anchor tag
+href --> hyperlink reference
+target --> _blank,_self,_parent,_top
+_blank --> open in new tab
+_self --> open in same tab
+_top --> open in same tab but in top level
+_parent --> open in same tab but in parent level
+
+
+list
+
+ordered list <ol>
+unordered list <ul>
+nested list <li>

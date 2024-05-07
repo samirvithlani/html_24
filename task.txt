@@ -1,0 +1,22 @@
+navbar --> 3 links 
+
+home   --> home.html : new page
+aboutus   ....  :same page
+contactus ....  :parent page
+
+2)remove underline from a tag...
+
+
+
+
+
+MATHS:
+subject: 
+    1)duration
+    2)fees
+    3)faculty
+
+
+fees : highlighed
+faculty name bold
+
