@@ -37,3 +37,22 @@ list
 ordered list <ol>
 unordered list <ul>
 nested list <li>
+------------------------------------
+<table> --> table tag
+<tr> --> table row
+<td> --> table data
+<th> --> table header
+<caption> --> table caption
+<colgroup> --> table column group
+<col> --> table column
+<thead> --> table header
+<tbody> --> table body
+-------------------------
+
+train No: Train Name  source destination arrival departure
+12345    :  Rajdhani    :  BBS  :  NDLS  :  10:00  :  10:30
+12346    :  Duronto     :  BBS  :  NDLS  :  11:00  :  11:30
+
+
+
+
