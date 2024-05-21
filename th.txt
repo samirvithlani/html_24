@@ -53,6 +53,15 @@ train No: Train Name  source destination arrival departure
 12345    :  Rajdhani    :  BBS  :  NDLS  :  10:00  :  10:30
 12346    :  Duronto     :  BBS  :  NDLS  :  11:00  :  11:30
 
+-----------------------------------------------------
 
 
+style attribute:
 
+
+table :
+<table>
+    <thead --> table header
+    <tr --> table row
+    <td -->table data
+</table>
