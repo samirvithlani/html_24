@@ -65,3 +65,15 @@ table :
     <tr --> table row
     <td -->table data
 </table>
+
+--------------------------
+'
+html4, html5
+
+--------------------------
+img : src alt height width :
+pre
+code
+
+data : value
+dataloist
