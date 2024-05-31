@@ -80,3 +80,8 @@ datalist : option
 
 -----------------------
 
+tag identifiers
+
+id must be unique
+name can be same
+
