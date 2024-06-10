@@ -86,4 +86,69 @@ id must be unique
 name can be same
 
 10 sec forward
+------------------------
+form :
+file
+password
+text
+address
+submit
+tel
+radio
+select
+number
+email
+checkbox
+reset
+date
+datetime
+range
+color
+
+submit ---> action --->url
+url ---> uniform resource locator
+----------------------------------
+
+marquee
+scrollamount :6
+scroll delay:85 ms
+behaviour : scroll,slide,alternate
+height
+width
+direction : left,right,up,down
+loop:int
+
+-----------------------------------
+image
+src = ""
+alt = ""
+-----------------------------------
+video
+autoplay
+constrols
+poster
+mute
+loop
+preload
+<video src>
+<source src>
+</video>
+
+-----------------------------------
+audio
+autoplay
+constrols
+muted
+loop
+
+-----------------------------------
+
+
+
+
+
+
+
+
+
 
