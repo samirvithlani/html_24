@@ -144,6 +144,15 @@ loop
 -----------------------------------
 
 
+html 5 container tags:
+<artical> : use:  to define an article
+<section: use , to define a section, what is section : 
+<aside> : use : to define content aside from the page content
+<nav> : use : to define navigation links
+<header>
+<footer>
+<figure>
+
 
 
 
